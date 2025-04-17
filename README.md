@@ -1,7 +1,5 @@
 # playlist2pdf
 
-# playlist2pdf
-
 Turn your Spotify or YouTube playlist into a printable PDF of all songs with title, artist, and duration.
 
 ## Features
